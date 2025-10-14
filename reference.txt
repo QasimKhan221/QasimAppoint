@@ -1,0 +1,16 @@
+Qasim Khan
+
+Reference and collaboration 
+
+I worked on this myself with no classmate.
+
+I used class notes and node.js documentations.
+Github interface files
+I used HTTP status codes website
+W3SCHOOLS  - java script handling.
+I also used my previous homeworks as references.
+Also used professors notes and slides. 
+Also used a new website called "GeeksforGeeks" to help me structure the codes. 
+
+
+-Thank YOu
